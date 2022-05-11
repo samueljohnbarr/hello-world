@@ -5,6 +5,8 @@
   <label for="good"> I am good</label><br>
 <input type="checkbox" id="bad" name="bad" value="Bad">
   <label for="bad"> I am bad</label><br>
+<input type="checkbox" id="bad" name="bad" value="whaddup">
+  <label for="whaddup"> whaddup</label><br>
 <input type="submit" value="Submit">
 </form>
 
