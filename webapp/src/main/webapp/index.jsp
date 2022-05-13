@@ -4,7 +4,7 @@
 <input type="checkbox" id="good" name="good" value="Good">
   <label for="good">I am having a day</label><br>
 <input type="checkbox" id="bad" name="bad" value="Bad">
-  <label for="bad">It is afternoon time</label><br>
+  <label for="bad">It is morning time</label><br>
 <input type="checkbox" id="bad" name="bad" value="whaddup">
   <label for="whaddup">It is not lunch time</label><br>
 <input type="submit" value="Submit">
